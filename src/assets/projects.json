@@ -12,7 +12,7 @@
     {
       "id": 2,
       "image": "./src/assets/booook.png",
-      "title": "Book-Main Kepper",
+      "title": "Book Kepper",
       "description": "Store All Your Favourite Books at one place.",
       "github": "https://github.com/priysnty123/Book-Keeper",
       "demo": "https://ai-interview-chatbot.vercel.app/",
@@ -24,7 +24,7 @@
       "image": "./src/assets/portfolio.png",
       "title": "My Portfolio",
       "description": "My Portfolio Website",
-      "github": "https://github.com/Varshaawsthi/AI-Interview-Chatbot",
+      "github": "https://github.com/priysnty123/Portfolio",
       "demo": "https://ai-interview-chatbot.vercel.app/",
       "appStore": "",
       "playStore": ""
