@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "./src/assets/exameye.png",
+      "title": "Exam-Eye",
+      "description": "A Smart Online Exam Management System",
+      "github": "https://github.com/priysnty123/Exam-Procter",
+      "demo": "https://duty-roster-system.netlify.app",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "id": 2,
+      "image": "./src/assets/booook.png",
+      "title": "Book-Main Kepper",
+      "description": "Store All Your Favourite Books at one place.",
+      "github": "https://github.com/priysnty123/Book-Keeper",
+      "demo": "https://ai-interview-chatbot.vercel.app/",
+      "appStore": "",
+      "playStore": ""
+    },
+    {
+      "id": 3,
+      "image": "./src/assets/portfolio.png",
+      "title": "My Portfolio",
+      "description": "My Portfolio Website",
+      "github": "https://github.com/Varshaawsthi/AI-Interview-Chatbot",
+      "demo": "https://ai-interview-chatbot.vercel.app/",
+      "appStore": "",
+      "playStore": ""
+    }
+  ]
+
