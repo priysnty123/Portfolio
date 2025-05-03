@@ -1,7 +1,18 @@
 {
-    "build": {
-      "env": {
-        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
+    "builds": [
+      {
+        "src": "vite.config.js",
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "dist"
+        }
       }
-    }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/index.html"
+      }
+    ]
   }
+  
